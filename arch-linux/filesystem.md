@@ -20,7 +20,7 @@ In Arch Linux, a **filesystem** is a method used to control how data is stored, 
 
 Arch Linux follows the **Filesystem Hierarchy Standard (FHS)** for operating systems using the **systemd** service manager. This standard defines the directory structure and organization for the operating system, ensuring **consistency** and **compatibility** across different systems.
 
-The filesystem in Arch Linux is typically created on a **partition**, inside **logical containers** such as **LVM**, **RAID**, and **dm-crypt**, or on a regular file. After creating a new **filesystem**, it can be **mounted** to make it **accessible** for use.
+The filesystem in Arch Linux is typically created on a **partition**, inside **logical containers** such as **LVM**, **RAID**, and **dm-crypt**, or on a regular file. After creating a new **filesystem**, it can be mounted to make it accessible for use.
 
 ### Arch Linux Filesystem Structure
 |     |     |

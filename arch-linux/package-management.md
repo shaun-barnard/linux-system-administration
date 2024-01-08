@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#arch-linux-filesystem" style="font-size: 24px;">Overview</a> |
-     <a href="#types" style="font-size: 24px;">AUR</a> |
+     <a href="#types" style="font-size: 24px;">Arch User Repository (AUR)</a> |
     <a href="#arch-linux-filesystem-structure" style="font-size: 24px;">Pacman</a> |
     <a href="#commands" style="font-size: 24px;">Yay</a>
 </p>
