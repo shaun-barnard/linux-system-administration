@@ -29,8 +29,9 @@
 |     |     |
 | --- | --- |
 | **cd** | Change the current directory |
-| ```bash
-cd /home/user1/Documents |
+```bash
+cd /home/user1/Documents
+```
 | **cp** | Copy files and directories |
 | **fdisk** | Create and manage disk partitions |
 | **find** | A versatile tool for searching files and directories based on various criteria, such as name, type, and size, with results generated in real-time. |
