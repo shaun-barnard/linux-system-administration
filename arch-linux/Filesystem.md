@@ -101,6 +101,9 @@ sudo parted /dev/sda
 |     |     |
 | --- | --- |
 | **pwd** | Print the current working directory |
+```bash
+pwd
+```
 | **rm** | Remove files and directories |
 ```bash
 rm file1.txt
