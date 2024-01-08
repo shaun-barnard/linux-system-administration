@@ -17,7 +17,7 @@ The Arch User Repository (AUR) is a **community-driven** repository for Arch Lin
 
 In Arch Linux, **pacman** is the default **package manager** for Arch Linux and its derivatives. It is a simple and fast package manager that allows for continuously upgrading the entire system with one command. Pacman combines a simple **binary package format** with an easy-to-use build system, making it possible to easily manage packages, whether they are from the **official repositories** or the user's own builds. It keeps the system up-to-date by **synchronizing package lists** with the master server, and it also handles **dependencies** and can download packages from a remote server.
 
-##### Commands
+#### Commands
 
 | Command | Description | Example |
 | ------- | ----------- | ------- |
@@ -48,7 +48,7 @@ AUR helpers, such as **yay**, are used to simplify the process of interacting wi
 
 *Note: All packages available in Pacman are also available in Yay, as Yay simply wraps Pacman and provides additional AUR functionality*
 
-##### Commands
+#### Commands
 
 | Command | Description | Example |
 | ------- | ----------- | ------- |
