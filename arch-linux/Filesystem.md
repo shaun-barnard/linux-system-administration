@@ -42,19 +42,19 @@ cp file.txt ~/Documents
 | --- | --- |
 | **fdisk** | Create and manage disk partitions |
 ```bash
-sudo fdisk -l
+fdisk -l
 ```
 |     |     |
 | --- | --- |
 | **find** | A versatile tool for searching files and directories based on various criteria, such as name, type, and size, with results generated in real-time. |
 ```bash
-sudo find / -iname "*.txt"
+find / -iname "*.txt"
 ```
 |     |     |
 | --- | --- |
 | **gdisk** | GPT fdisk, a disk partitioning tool |
 ```bash
-sudo gdisk /dev/sda
+gdisk /dev/sda
 ```
 |     |     |
 | --- | --- |
@@ -78,13 +78,13 @@ mkdir ~/NewDirectory
 | --- | --- |
 | **mkfs** | Make a file system on a disk partition |
 ```bash
-sudo mkfs.ext4 /dev/sda1
+mkfs.ext4 /dev/sda1
 ```
 |     |     |
 | --- | --- |
 | **mount** | Mount a file system |
 ```bash
-sudo mount /dev/sdb1 /mnt/data
+mount /dev/sdb1 /mnt/data
 ```
 |     |     |
 | --- | --- |
@@ -96,7 +96,7 @@ mv file1.txt ~/Documents
 | --- | --- |
 | **parted** | Create and manage disk partitions with a more user-friendly interface |
 ```bash
-sudo parted /dev/sda
+parted /dev/sda
 ```
 |     |     |
 | --- | --- |
