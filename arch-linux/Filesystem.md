@@ -24,6 +24,27 @@
 | **/usr** | Secondary hierarchy for read-only user data |
 | **/var** | Variable data such as logs, spool files, and temporary e.g. /var/log |
 
+| Topic | Command | Description |
+| --- | --- | --- |
+| Creating a Filesystem |  |  |
+|  | `mkfs.ext4` | Create an ext4 filesystem. |
+|  | `mkfs.xfs` | Create an XFS filesystem. |
+|  | `mkfs.btrfs` | Create a Btrfs filesystem. |
+| Mounting and Unmounting |  |  |
+|  | `mount` | Mount a filesystem. |
+|  | `umount` | Unmount a filesystem. |
+|  | `mount -a` | Mount all filesystems listed in /etc/fstab. |
+| Checking and Repairing |  |  |
+|  | `fsck` | Check and repair a filesystem. |
+|  | `e2fsck` | Check ext2, ext3, or ext4 filesystems. |
+|  | `xfs_repair` | Repair an XFS filesystem. |
+| Viewing Mounted Filesystems |  |  |
+|  | `df` | Display information about mounted filesystems. |
+|  | `lsblk` | List block devices, including information about whether or not each device is mounted. |
+| Managing Filesystem Labels and UUIDs |  |  |
+|  | `e2label` | Set an ext2, ext3, or ext4 filesystem label. |
+|  | `xfs_admin` | Change the UUID of an XFS filesystem. |
+
 ### Commands
 
 |     |     |
