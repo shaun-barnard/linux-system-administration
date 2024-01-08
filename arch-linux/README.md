@@ -1,6 +1,6 @@
 ## Arch Linux Filesystem Structure
 
-| #### Directory | #### Purpose |
+| Directory | Purpose |
 | --- | --- |
 | **/bin** | Essential command binaries |
 | /boot | Contains the kernel and initial ramdisk |
