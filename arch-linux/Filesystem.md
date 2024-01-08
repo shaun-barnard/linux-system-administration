@@ -48,7 +48,7 @@ fdisk -l
 | --- | --- |
 | **find** | A versatile tool for searching files and directories based on various criteria, such as name, type, and size, with results generated in real-time. |
 ```bash
-find / -iname "*.txt"
+find ~/ -iname "*.txt"
 ```
 |     |     |
 | --- | --- |
