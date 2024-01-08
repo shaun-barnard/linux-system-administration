@@ -10,7 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System-wide configuration files.<br>
 **/home**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home directories for regular users.<br>
-**/lib, /lib64**: Essential shared libraries and kernel modules.<br>
+**/lib, /lib64**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Essential shared libraries and kernel modules.<br>
 **/mnt**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Directories for temporarily mounting filesystems.<br>
 **/opt**<br>
