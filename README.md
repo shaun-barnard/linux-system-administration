@@ -3,11 +3,11 @@
 #### Linux System Administration
 
 ### [Arch Linux](https://github.com/shaun-barnard/linux-system-administration/tree/main/arch-linux)
-    Filesystem
-        Commands
-        Structure
-        Overview
-        Types
+1.  [Arch Linux](https://github.com/shaun-barnard/linux-system-administration/tree/main/arch-linux)
+    Overview
+    Types
+    Structure
+    Commands
 
 ### [CentOS](https://github.com/shaun-barnard/linux-system-administration/tree/main/centos)
 ### [Ubuntu](https://github.com/shaun-barnard/linux-system-administration/tree/main/ubuntu)
