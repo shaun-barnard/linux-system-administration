@@ -42,7 +42,7 @@ The Arch User Repository (AUR) is a **community-driven** repository for Arch Lin
 
 AUR helpers, such as **yay**, are used to simplify the process of interacting with the AUR. They automate the retrieval and building of packages from the AUR, as well as **handling dependencies** and updates. Users can **search**, **install**, and **manage** AUR packages using these helpers, which streamline the process of working with the AUR.
 
-***Note: All packages available in Pacman are also available in Yay, as Yay simply wraps Pacman and provides additional AUR functionality***
+**Note: All packages available in Pacman are also available in Yay, as Yay simply wraps Pacman and provides additional AUR functionality*
 
 #### Yay (Yet Another Yaourt)
 
