@@ -45,7 +45,7 @@
 |  | `df` | Display information about mounted filesystems. | `df -h` |
 |  | `lsblk` | List block devices, including information about whether or not each device is mounted. | `lsblk` |
 
-### Commands
+### Other Commands
 
 |     |     |
 | --- | --- |
