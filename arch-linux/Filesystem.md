@@ -32,6 +32,7 @@
 ```bash
 cd ~/Documents
 ```
+|     |     |
 | --- | --- |
 | **cp** | Copy files and directories |
 ```bash
