@@ -104,6 +104,8 @@ sudo parted /dev/sda
 ```bash
 pwd
 ```
+|     |     |
+| --- | --- |
 | **rm** | Remove files and directories |
 ```bash
 rm file1.txt
