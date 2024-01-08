@@ -1,8 +1,9 @@
 ## Arch Linux Filesystem Structure
 
-```text
-**/bin**: Essential command binaries.<br>
-**/boot**: Contains the kernel and initial ramdisk.<br>
+**/bin**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Essential command binaries.<br>
+**/boot**:<Br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contains the kernel and initial ramdisk.<br>
 **/dev**: Device files.<br>
 **/etc**: System-wide configuration files.<br>
 **/home**: Home directories for regular users.<br>
@@ -18,4 +19,3 @@
 **/tmp**: Stores temporary files.<br>
 **/usr**: Secondary hierarchy for read-only user data.<br>
 **/var**: Variable data such as logs, spool files, and temporary e.g. /var/log.<br>
-```
