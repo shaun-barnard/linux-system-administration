@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#arch-linux-filesystem" style="font-size: 24px;">Filesystem</a> |
-    <a href="#common-commands" style="font-size: 24px;">Commands</a> |
+    <a href="#commands" style="font-size: 24px;">Commands</a> |
 </p>
 
 ### Arch Linux Filesystem
