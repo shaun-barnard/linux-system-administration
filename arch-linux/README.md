@@ -1,21 +1,35 @@
-## Arch Linux Filesystem Structure
+## Arch Linux Filesystem
 
 **/bin**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Essential command binaries.<br>
-**/boot**:<Br>
+**/boot**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contains the kernel and initial ramdisk.<br>
-**/dev**: Device files.<br>
-**/etc**: System-wide configuration files.<br>
-**/home**: Home directories for regular users.<br>
+**/dev**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Device files.<br>
+**/etc**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System-wide configuration files.<br>
+**/home**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home directories for regular users.<br>
 **/lib, /lib64**: Essential shared libraries and kernel modules.<br>
-**/mnt**: Directories for temporarily mounting filesystems.<br>
-**/opt**: Typically used for third-party software.<br>
-**/proc**: A virtual filesystem that provides process and kernel information.<br>
-**/root**: Home directory for the root user.<br>
-**/run**: Run-time variable data.<br>
-**/sbin**: Essential system binaries.<br>
-**/srv**: Data for services provided by the system.<br>
-**/sys**: A virtual filesystem that exposes information about devices, drivers, and some kernel features.<br>
-**/tmp**: Stores temporary files.<br>
-**/usr**: Secondary hierarchy for read-only user data.<br>
-**/var**: Variable data such as logs, spool files, and temporary e.g. /var/log.<br>
+**/mnt**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Directories for temporarily mounting filesystems.<br>
+**/opt**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Typically used for third-party software.<br>
+**/proc**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A virtual filesystem that provides process and kernel information.<br>
+**/root**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home directory for the root user.<br>
+**/run**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Run-time variable data.<br>
+**/sbin**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Essential system binaries.<br>
+**/srv**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data for services provided by the system.<br>
+**/sys**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A virtual filesystem that exposes information about devices, drivers, and some kernel features.<br>
+**/tmp**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stores temporary files.<br>
+**/usr**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary hierarchy for read-only user data.<br>
+**/var**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variable data such as logs, spool files, and temporary e.g. /var/log.<br>
