@@ -56,8 +56,6 @@ AUR helpers, such as **yay**, are used to simplify the process of interacting wi
 
 | Command | Description | Example |
 | ------- | ----------- | ------- |
-| `yay {-h --help}` | Display help information | `yay -h` |
-| `yay {-V --version}` | Display version of yay | `yay -V` |
 | `yay {-D --database} <options> <package(s)>` | Query the package database | `yay -D <package>` |
 | `yay {-F --files} [options] [package(s)]` | Query the files database | `yay -F <file>` |
 | `yay {-Q --query} [options] [package(s)]` | Query the package database | `yay -Q <package>` |
@@ -65,6 +63,8 @@ AUR helpers, such as **yay**, are used to simplify the process of interacting wi
 | `yay {-S --sync} [options] [package(s)]` | Install or upgrade a package | `yay -S <package>` |
 | `yay {-T --deptest} [options] [package(s)]` | Check dependencies | `yay -T <package>` |
 | `yay {-U --upgrade} [options] <file(s)>` | Upgrade or add a package to the system | `yay -U <package>` |
+| `yay {-V --version}` | Display version of yay | `yay -V` |
+| `yay {-h --help}` | Display help information | `yay -h` |
 
 **New Operations:**
 
