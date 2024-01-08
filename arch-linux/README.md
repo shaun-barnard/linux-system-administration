@@ -2,7 +2,7 @@
 
 | Directory | Purpose |
 | --- | --- |
-| /bin | Essential command binaries |
+| **/bin** | Essential command binaries |
 | /boot | Contains the kernel and initial ramdisk |
 | /dev | Device files |
 | /etc | System-wide configuration files |
