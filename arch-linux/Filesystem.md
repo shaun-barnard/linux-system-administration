@@ -30,20 +30,62 @@
 | --- | --- |
 | **cd** | Change the current directory |
 ```bash
-cd /home/user1/Documents
+cd ~/Documents
 ```
 | **cp** | Copy files and directories |
+```bash
+cp file.txt ~/Documents
+```
 | **fdisk** | Create and manage disk partitions |
+```bash
+sudo fdisk -l
+```
 | **find** | A versatile tool for searching files and directories based on various criteria, such as name, type, and size, with results generated in real-time. |
+```bash
+sudo find / -iname "*.txt"
+```
 | **gdisk** | GPT fdisk, a disk partitioning tool |
+```bash
+sudo gdisk /dev/sda
+```
 | **locate** | A faster option that relies on a pre-built database for quick file searches but may not provide real-time results. |
+```bash
+locate myfile.txt
+```
 | **ls** | List directory contents |
+```bash
+ls -la ~/username
+```
 | **mkdir** | Create a new directory |
+```bash
+mkdir ~/NewDirectory
+```
 | **mkfs** | Make a file system on a disk partition |
+```bash
+sudo mkfs.ext4 /dev/sda1
+```
 | **mount** | Mount a file system |
+```bash
+sudo mount /dev/sdb1 /mnt/data
+```
 | **mv** | Move/rename files and directories |
+```bash
+mv file1.txt ~/Documents
+```
 | **parted** | Create and manage disk partitions with a more user-friendly interface |
+```bash
+sudo parted /dev/sda
+```
 | **pwd** | Print the current working directory |
 | **rm** | Remove files and directories |
+```bash
+rm file1.txt
+```
 | **rmdir** | Remove a directory |
+```bash
+rmdir ~/OldDirectory
+```
 | **umount** | Unmount a file system |
+```bash
+sudo umount /mnt/data
+```
