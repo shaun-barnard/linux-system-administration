@@ -24,7 +24,7 @@
 | **/usr** | Secondary hierarchy for read-only user data |
 | **/var** | Variable data such as logs, spool files, and temporary e.g. /var/log |
 
-| Topic | Command | Description | Example Usage |
+| | Command | Description | Example |
 | --- | --- | --- | --- |
 | Creating a Filesystem |  |  |  |
 |  | `mkfs.ext4` | Create an ext4 filesystem. | `mkfs.ext4 /dev/sdX1` |
