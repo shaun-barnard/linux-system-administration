@@ -13,8 +13,6 @@ Package management in Linux refers to the process of installing, updating, confi
 
 In Arch Linux, **pacman** is the default **package manager** for Arch Linux and its derivatives. It is a simple and fast package manager that allows for continuously **upgrading the entire system** with one command. **Pacman** combines a simple **binary package format** with an easy-to-use build system, making it possible to easily manage packages, whether they are from the **official repositories** or the user's own builds. It **keeps the system up-to-date** by **synchronizing** package lists with the **master server**, and it also **handles dependencies** and can **download packages** from a remote server.
 
-#### Pacman Commands
-
 | Command | Description | Example |
 | ------- | ----------- | ------- |
 | `pacman {-S --sync} [options]` | Synchronize the package databases and install or upgrade packages | `pacman -S package_name` |
