@@ -32,7 +32,8 @@
 ```bash
 cd ~/Documents
 ```
-**cp** | Copy files and directories |
+| --- | --- |
+| **cp** | Copy files and directories |
 ```bash
 cp file.txt ~/Documents
 ```
