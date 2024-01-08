@@ -1,3 +1,3 @@
-## [Filesystem](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md)
+## [Arch Linux Filesystem](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md)
 
 In Arch Linux, a **filesystem** is a method used to control how data is stored, organized, managed,and retrieved on storage devices. The filesystem also provides a way to **identify**, **access**, and **modify** the stored **information**. Arch Linux supports various filesystem types, each with its own advantages, disadvantages, and unique characteristics.
