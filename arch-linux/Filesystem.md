@@ -120,5 +120,5 @@ rmdir ~/OldDirectory
 | --- | --- |
 | **umount** | Unmount a file system |
 ```bash
-sudo umount /mnt/data
+umount /mnt/data
 ```
