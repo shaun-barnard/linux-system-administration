@@ -1,12 +1,13 @@
 ## Arch Linux Filesystem Structure
 
-**/bin**: Essential command binaries.<br>
+**/bin**
+Essential command binaries.<br>
 **/boot**: Contains the kernel and initial ramdisk.<br>
 **/dev**: Device files.<br>
 **/etc**: System-wide configuration files.<br>
 **/home**: Home directories for regular users.<br>
 **/lib, /lib64**: Essential shared libraries and kernel modules.<br>
-**/mnt, /mnt**: Directories for temporarily mounting filesystems.<br>
+**/mnt**: Directories for temporarily mounting filesystems.<br>
 **/opt**: Typically used for third-party software.<br>
 **/proc**: A virtual filesystem that provides process and kernel information.<br>
 **/root**: Home directory for the root user.<br>
