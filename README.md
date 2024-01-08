@@ -3,20 +3,11 @@
 #### Linux System Administration
 
 ### [Arch Linux](https://github.com/shaun-barnard/linux-system-administration/tree/main/arch-linux)
-```text
-Filesystem
-├── Overview
-├── Types
-├── Structure
-├── Commands
-```
-<!-- │ ├── 
-│ │ ├── 
-│ │ └──
-│ └──
-│ ├──
-│ └──
-└──-->
+1. Filesystem
+    1. Overview
+    2. Types
+    3. Structure
+    4. Commands
 
 ### [CentOS](https://github.com/shaun-barnard/linux-system-administration/tree/main/centos)
 ### [Ubuntu](https://github.com/shaun-barnard/linux-system-administration/tree/main/ubuntu)
