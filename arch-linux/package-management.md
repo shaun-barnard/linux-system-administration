@@ -9,7 +9,7 @@
 
 Package management in Linux refers to the process of installing, updating, configuring, and removing software packages on a Linux system. It involves the use of package management utilities to handle these tasks efficiently. In the context of Arch Linux, the primary package management utilities are **pacman** and AUR helpers such as **yay**.
 
-## Pacman
+#### Pacman
 
 In Arch Linux, **pacman** is the default **package manager** for Arch Linux and its derivatives. It is a simple and fast package manager that allows for continuously **upgrading the entire system** with one command. **Pacman** combines a simple **binary package format** with an easy-to-use build system, making it possible to easily manage packages, whether they are from the **official repositories** or the user's own builds. It **keeps the system up-to-date** by **synchronizing** package lists with the **master server**, and it also **handles dependencies** and can **download packages** from a remote server.
 
@@ -36,7 +36,7 @@ In Arch Linux, **pacman** is the default **package manager** for Arch Linux and 
 | `-w, --downloadonly` | Download packages but do not install/upgrade anything | `pacman -Sw package_name` |
 | `-y, --refresh` | Download fresh package databases from the server | `pacman -Sy` |
 
-## Arch User Repository (AUR)
+#### Arch User Repository (AUR)
 
 **The Arch User Repository (AUR)** is a **community-driven repository** for Arch Linux users. It contains **package build scripts (PKGBUILDs)** that allow users to create **custom-built packages**, which are **NOT available in the official repositories**. These **PKGBUILDs** automate the process of retrieving the source code, compiling it, and packaging it into a single, installable package using the **makepkg** script.
 
@@ -44,7 +44,7 @@ In Arch Linux, **pacman** is the default **package manager** for Arch Linux and 
 
 ***Note: All packages available in Pacman are also available in Yay, as Yay simply wraps Pacman and provides additional AUR functionality***
 
-## Yay (Yet Another Yaourt)
+#### Yay (Yet Another Yaourt)
 
 | Command | Description | Example |
 | ------- | ----------- | ------- |
