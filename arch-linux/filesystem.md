@@ -2,7 +2,7 @@
     <a href="#arch-linux-filesystem style="font-size: 24px;">Overview</a> |
      <a href="#types style="font-size: 24px;">Types</a> |
     <a href="#arch-linux-filesystem-structure" style="font-size: 24px;">Filesystem Structure</a> |
-    <a href="#commands" style="font-size: 24px;">Commands</a> |
+    <a href="#commands" style="font-size: 24px;">Commands</a>
 </p>
 
 ### Arch Linux Filesystem
