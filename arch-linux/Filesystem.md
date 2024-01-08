@@ -24,6 +24,8 @@
 | **/usr** | Secondary hierarchy for read-only user data |
 | **/var** | Variable data such as logs, spool files, and temporary e.g. /var/log |
 
+## Commands
+
 | Topic | Command | Description | Example Usage |
 | --- | --- | --- | --- |
 | Checking and Repairing |  |  |  |
