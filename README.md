@@ -4,16 +4,14 @@
 
 ### [Arch Linux](https://github.com/shaun-barnard/linux-system-administration/tree/main/arch-linux)
 &nbsp;&nbsp; [Filesystem](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Overview](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Types](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md#types)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Structure](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md#structure)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Commands](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md#commands)<br>
+&nbsp;&nbsp; [Types](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md#types)<br>
+&nbsp;&nbsp; [Structure](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md#structure)<br>
+&nbsp;&nbsp; [Commands](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md#commands)<br>
 
 &nbsp;&nbsp; [Package Management](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/package-management.md)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Overview](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/package-management.md#arch-linux-package-management)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Arch User Repository (AUR)](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/package-management.md#arch-user-repository-aur)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Pacman](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/package-management.md#pacman)<br>
-&nbsp;&nbsp;&nbsp;&nbsp; [Yay](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/package-management.md#yay-yet-another-yaourt)<br>
+&nbsp;&nbsp; [Arch User Repository (AUR)](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/package-management.md#arch-user-repository-aur)<br>
+&nbsp;&nbsp; [Pacman](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/package-management.md#pacman)<br>
+&nbsp;&nbsp; [Yay](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/package-management.md#yay-yet-another-yaourt)<br>
 
 ### [CentOS](https://github.com/shaun-barnard/linux-system-administration/tree/main/centos)
 ### [Ubuntu](https://github.com/shaun-barnard/linux-system-administration/tree/main/ubuntu)
