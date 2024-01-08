@@ -18,3 +18,22 @@
 | **/tmp** | Stores temporary files |
 | **/usr** | Secondary hierarchy for read-only user data |
 | **/var** | Variable data such as logs, spool files, and temporary e.g. /var/log |
+
+|     |     |
+| --- | --- |
+| **cd** | Change the current directory |
+| **cp** | Copy files and directories |
+| **fdisk** | Create and manage disk partitions |
+| **find** | A versatile tool for searching files and directories based on various criteria, such as name, type, and size, with results generated in real-time. |
+| **gdisk** | GPT fdisk, a disk partitioning tool |
+| **locate** | A faster option that relies on a pre-built database for quick file searches but may not provide real-time results. |
+| **ls** | List directory contents |
+| **mkdir** | Create a new directory |
+| **mkfs** | Make a file system on a disk partition |
+| **mount** | Mount a file system |
+| **mv** | Move/rename files and directories |
+| **parted** | Create and manage disk partitions with a more user-friendly interface |
+| **pwd** | Print the current working directory |
+| **rm** | Remove files and directories |
+| **rmdir** | Remove a directory |
+| **umount** | Unmount a file system |
