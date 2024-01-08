@@ -4,4 +4,8 @@
 
 ### [Arch Linux](https://archlinux.org/)
 
-Bash Scripts
+**Configuration**
+**File System and Storage**
+**Service Management**
+**Security**
+**Networking**
