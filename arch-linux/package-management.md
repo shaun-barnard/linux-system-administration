@@ -38,9 +38,9 @@ In Arch Linux, **pacman** is the default **package manager** for Arch Linux and 
 
 #### Arch User Repository (AUR)
 
-**The Arch User Repository (AUR)** is a **community-driven repository** for Arch Linux users. It contains **package build scripts (PKGBUILDs)** that allow users to create **custom-built packages**, which are **NOT available in the official repositories**. These **PKGBUILDs** automate the process of retrieving the source code, compiling it, and packaging it into a single, installable package using the **makepkg** script.
+The Arch User Repository (AUR) is a **community-driven** repository for Arch Linux users. It contains package build scripts (PKGBUILDs) that allow users to create custom-built packages, which are **NOT available in the official repositories**. These **PKGBUILDs** automate the process of retrieving the source code, compiling it, and packaging it into a single, installable package using the **makepkg** script.
 
-**AUR helpers**, such as **Yay**, are used to simplify the process of interacting with the **AUR**. They **automate** the **retrieval** and **building** of **packages** from the **AUR**, as well as **handling dependencies** and **updates**. Users can **search**, **install**, and **manage** AUR packages using these helpers, which streamline the process of working with the AUR.
+AUR helpers, such as **yay**, are used to simplify the process of interacting with the **AUR**. They automate the retrieval and building of packages from the AUR, as well as **handling dependencies** and **updates**. Users can **search**, **install**, and **manage** AUR packages using these helpers, which streamline the process of working with the AUR.
 
 ***Note: All packages available in Pacman are also available in Yay, as Yay simply wraps Pacman and provides additional AUR functionality***
 
