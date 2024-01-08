@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="#arch-linux-filesystem" style="font-size: 24px;">Overview</a> |
-     <a href="#types" style="font-size: 24px;">Arch User Repository (AUR)</a> |
-    <a href="#arch-linux-filesystem-structure" style="font-size: 24px;">Pacman</a> |
-    <a href="#commands" style="font-size: 24px;">Yay</a>
+    <a href="#arch-linux-package-management" style="font-size: 24px;">Overview</a> |
+     <a href="#arch-user-repository-aur" style="font-size: 24px;">Arch User Repository (AUR)</a> |
+    <a href="#pacman" style="font-size: 24px;">Pacman</a> |
+    <a href="#yay-yet-another-yaourt" style="font-size: 24px;">Yay</a>
 </p>
 
 ### Arch Linux Package Management
