@@ -2,6 +2,7 @@
 
 #### Linux System Administration
 
-### [Arch Linux](https://archlinux.org/)
-### [Ubuntu](https://ubuntu.com/)
+### [Arch Linux](https://github.com/shaun-barnard/linux-system-administration/tree/main/arch-linux)
+### [CentOS](https://github.com/shaun-barnard/linux-system-administration/tree/main/centos)
+### [Ubuntu](https://github.com/shaun-barnard/linux-system-administration/tree/main/ubuntu)
 
