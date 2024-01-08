@@ -1,19 +1,19 @@
 ## Arch Linux Filesystem Structure
 
-**/bin**: Essential command binaries.
-**/boot**: Contains the kernel and initial ramdisk.
-**/dev**: Device files.
-**/etc**: System-wide configuration files.
-**/home**: Home directories for regular users.
-**/lib, /lib64**: Essential shared libraries and kernel modules.
-**/mnt, /mnt**: Directories for temporarily mounting filesystems.
-**/opt**: Typically used for third-party software.
-**/proc**: A virtual filesystem that provides process and kernel information.
-**/root**: Home directory for the root user.
-**/run**: Run-time variable data.
-**/sbin**: Essential system binaries.
-**/srv**: Data for services provided by the system.
-**/sys**: A virtual filesystem that exposes information about devices, drivers, and some kernel features.
-**/tmp**: Stores temporary files.
-**/usr**: Secondary hierarchy for read-only user data.
-**/var**: Variable data such as logs, spool files, and temporary e.g. /var/log.
+**/bin**: Essential command binaries.<br>
+**/boot**: Contains the kernel and initial ramdisk.<br>
+**/dev**: Device files.<br>
+**/etc**: System-wide configuration files.<br>
+**/home**: Home directories for regular users.<br>
+**/lib, /lib64**: Essential shared libraries and kernel modules.<br>
+**/mnt, /mnt**: Directories for temporarily mounting filesystems.<br>
+**/opt**: Typically used for third-party software.<br>
+**/proc**: A virtual filesystem that provides process and kernel information.<br>
+**/root**: Home directory for the root user.<br>
+**/run**: Run-time variable data.<br>
+**/sbin**: Essential system binaries.<br>
+**/srv**: Data for services provided by the system.<br>
+**/sys**: A virtual filesystem that exposes information about devices, drivers, and some kernel features.<br>
+**/tmp**: Stores temporary files.<br>
+**/usr**: Secondary hierarchy for read-only user data.<br>
+**/var**: Variable data such as logs, spool files, and temporary e.g. /var/log.<br>
