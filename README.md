@@ -4,10 +4,10 @@
 
 ### [Arch Linux](https://github.com/shaun-barnard/linux-system-administration/tree/main/arch-linux)
 1.  [Arch Linux](https://github.com/shaun-barnard/linux-system-administration/tree/main/arch-linux)
-    Overview
-    Types
-    Structure
-    Commands
+    a. Overview
+    b. Types
+    c. Structure
+    d. Commands
 
 ### [CentOS](https://github.com/shaun-barnard/linux-system-administration/tree/main/centos)
 ### [Ubuntu](https://github.com/shaun-barnard/linux-system-administration/tree/main/ubuntu)
