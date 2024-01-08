@@ -1,4 +1,4 @@
-## [Arch Linux Filesystem](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md)
+## [Arch Linux Filesystem](https://github.com/shaun-barnard/linux-system-administration/blob/main/arch-linux/filesystem.md)<br>
 <a href="#arch-linux-filesystem style="font-size: 24px;">Overview</a> | <a href="#types style="font-size: 24px;">Types</a> | <a href="#arch-linux-filesystem-structure" style="font-size: 24px;">Filesystem Structure</a> | <a href="#commands" style="font-size: 24px;">Commands</a>
 </p>
 
