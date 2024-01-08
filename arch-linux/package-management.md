@@ -1,13 +1,17 @@
 <p align="center">
     <a href="#arch-linux-filesystem" style="font-size: 24px;">Overview</a> |
-     <a href="#types" style="font-size: 24px;">Pacman</a> |
-    <a href="#arch-linux-filesystem-structure" style="font-size: 24px;">Filesystem Structure</a> |
-    <a href="#commands" style="font-size: 24px;">Commands</a>
+     <a href="#types" style="font-size: 24px;">AUR</a> |
+    <a href="#arch-linux-filesystem-structure" style="font-size: 24px;">Pacman</a> |
+    <a href="#commands" style="font-size: 24px;">Yay</a>
 </p>
 
 ### Arch Linux Package Management
 
 Package management in Linux refers to the process of installing, updating, configuring, and removing software packages on a Linux system. It involves the use of package management utilities to handle these tasks efficiently. In the context of Arch Linux, the primary package management utilities are **pacman** and AUR helpers such as **yay**.
+
+#### Arch User Repository (AUR)
+
+The Arch User Repository (AUR) is a **community-driven** repository for Arch Linux users. It contains package build scripts (PKGBUILDs) that allow users to create custom-built packages, which are **NOT available in the official repositories**. These **PKGBUILDs** automate the process of retrieving the source code, compiling it, and packaging it into a single, installable package using the **makepkg** script.
 
 #### Pacman
 
@@ -36,15 +40,11 @@ In Arch Linux, **pacman** is the default **package manager** for Arch Linux and 
 | `-w, --downloadonly` | Download packages but do not install/upgrade anything | `pacman -Sw package_name` |
 | `-y, --refresh` | Download fresh package databases from the server | `pacman -Sy` |
 
-#### Arch User Repository (AUR)
-
-The Arch User Repository (AUR) is a **community-driven** repository for Arch Linux users. It contains package build scripts (PKGBUILDs) that allow users to create custom-built packages, which are **NOT available in the official repositories**. These **PKGBUILDs** automate the process of retrieving the source code, compiling it, and packaging it into a single, installable package using the **makepkg** script.
+#### Yay (Yet Another Yaourt)
 
 AUR helpers, such as **yay**, are used to simplify the process of interacting with the AUR. They automate the retrieval and building of packages from the AUR, as well as **handling dependencies** and updates. Users can **search**, **install**, and **manage** AUR packages using these helpers, which streamline the process of working with the AUR.
 
 **Note: All packages available in Pacman are also available in Yay, as Yay simply wraps Pacman and provides additional AUR functionality*
-
-#### Yay (Yet Another Yaourt)
 
 | Command | Description | Example |
 | ------- | ----------- | ------- |
