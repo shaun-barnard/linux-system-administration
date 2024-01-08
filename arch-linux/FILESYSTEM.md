@@ -55,5 +55,4 @@
 |  | `lsblk` | List block devices, including information about whether or not each device is mounted. | `lsblk` |
 |  | `mv` | Move or rename files. | `mv file1 file2` |
 |  | `rm` | Remove files or directories. | `rm filename` |
-|  | `pwd` | Get present working directory. | `pwd` |
 |  | `touch` | Create an empty file or update the access and modification times of a file. | `touch filename` |
