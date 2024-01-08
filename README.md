@@ -1,5 +1,5 @@
 #### Linux System Administration
 
-#### [Arch Linux](https://archlinux.org/)
+### [Arch Linux](https://archlinux.org/)
 
 Bash Scripts
