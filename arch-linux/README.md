@@ -1,5 +1,5 @@
 ## Arch Linux Filesystem
-
+|     |     |
 | --- | --- |
 | **/bin** | Essential command binaries |
 | **/boot** | Contains the kernel and initial ramdisk |
