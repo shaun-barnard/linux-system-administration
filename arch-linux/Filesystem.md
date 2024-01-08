@@ -24,26 +24,26 @@
 | **/usr** | Secondary hierarchy for read-only user data |
 | **/var** | Variable data such as logs, spool files, and temporary e.g. /var/log |
 
-| | Command | Description | Example |
+| Topic | Command | Description | Example |
 | --- | --- | --- | --- |
+| Checking and Repairing |  |  |  |
+|  | `e2fsck` | Check ext2, ext3, or ext4 filesystems. | `e2fsck /dev/sdX1` |
+|  | `fsck` | Check and repair a filesystem. | `fsck /dev/sdX1` |
+|  | `xfs_repair` | Repair an XFS filesystem. | `xfs_repair /dev/sdX1` |
 | Creating a Filesystem |  |  |  |
+|  | `mkfs.btrfs` | Create a Btrfs filesystem. | `mkfs.btrfs /dev/sdX1` |
 |  | `mkfs.ext4` | Create an ext4 filesystem. | `mkfs.ext4 /dev/sdX1` |
 |  | `mkfs.xfs` | Create an XFS filesystem. | `mkfs.xfs /dev/sdX1` |
-|  | `mkfs.btrfs` | Create a Btrfs filesystem. | `mkfs.btrfs /dev/sdX1` |
-| Mounting and Unmounting |  |  |  |
-|  | `mount` | Mount a filesystem. | `mount /dev/sdX1 /mnt` |
-|  | `umount` | Unmount a filesystem. | `umount /mnt` |
-|  | `mount -a` | Mount all filesystems listed in /etc/fstab. | `mount -a` |
-| Checking and Repairing |  |  |  |
-|  | `fsck` | Check and repair a filesystem. | `fsck /dev/sdX1` |
-|  | `e2fsck` | Check ext2, ext3, or ext4 filesystems. | `e2fsck /dev/sdX1` |
-|  | `xfs_repair` | Repair an XFS filesystem. | `xfs_repair /dev/sdX1` |
-| Viewing Mounted Filesystems |  |  |  |
-|  | `df` | Display information about mounted filesystems. | `df -h` |
-|  | `lsblk` | List block devices, including information about whether or not each device is mounted. | `lsblk` |
 | Managing Filesystem Labels and UUIDs |  |  |  |
 |  | `e2label` | Set an ext2, ext3, or ext4 filesystem label. | `e2label /dev/sdX1 NewLabel` |
 |  | `xfs_admin` | Change the UUID of an XFS filesystem. | `xfs_admin -U newUUID /dev/sdX1` |
+| Mounting and Unmounting |  |  |  |
+|  | `mount` | Mount a filesystem. | `mount /dev/sdX1 /mnt` |
+|  | `mount -a` | Mount all filesystems listed in /etc/fstab. | `mount -a` |
+|  | `umount` | Unmount a filesystem. | `umount /mnt` |
+| Viewing Mounted Filesystems |  |  |  |
+|  | `df` | Display information about mounted filesystems. | `df -h` |
+|  | `lsblk` | List block devices, including information about whether or not each device is mounted. | `lsblk` |
 
 ### Commands
 
