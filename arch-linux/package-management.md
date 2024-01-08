@@ -7,7 +7,7 @@
 
 ### Arch Linux Package Management
 
-Package management in Linux refers to the process of installing, updating, configuring, and removing software packages on a Linux system. It involves the use of package management utilities to handle these tasks efficiently. In the context of Arch Linux, the primary package management utilities are **pacman** and AUR helpers such as **yay**.
+Package management in Linux refers to the process of installing, updating, configuring, and removing software packages on a Linux system. It involves the use of package management utilities to handle these tasks efficiently. In the context of Arch Linux, the primary package management utilities are <u>pacman<u> and AUR helpers such as **yay**.
 
 #### Pacman
 
