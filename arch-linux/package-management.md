@@ -17,7 +17,7 @@ In Arch Linux, **pacman** is the default **package manager** for Arch Linux and 
 
 | Command | Description | Example |
 | ------- | ----------- | ------- |
-| `pacman {-S --sync} [options] [package(s)]` | Synchronize the package databases and install or upgrade packages | `pacman -S package_name` |
+| `pacman {-S --sync} [options]` | Synchronize the package databases and install or upgrade packages | `pacman -S package_name` |
 
 **Options:**
 
