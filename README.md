@@ -9,6 +9,7 @@ Filesystem
 ├── Types
 ├── Structure
 ├── Commands
+```
 <!-- │ ├── 
 │ │ ├── 
 │ │ └──
@@ -16,7 +17,7 @@ Filesystem
 │ ├──
 │ └──
 └──-->
-```
+
 ### [CentOS](https://github.com/shaun-barnard/linux-system-administration/tree/main/centos)
 ### [Ubuntu](https://github.com/shaun-barnard/linux-system-administration/tree/main/ubuntu)
 
